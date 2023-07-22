@@ -1,0 +1,35 @@
+.swal2-input{
+    margin: 1rem;
+
+justify-content: center;
+}
+#swal-input1{
+    margin-inline: 3rem;
+}#swal-input2{
+     
+    margin-inline: 3rem;
+}
+#swal-input3{
+    margin-right: 4px;
+    padding: 1rem;
+}
+.data {
+text-align: center;
+/* margin-top: 30px; */
+} 
+
+table {
+border-collapse: collapse;
+width: 50rem;
+margin-top: 30px;
+}
+
+th, td {
+border: 1px solid black;
+padding: 1rem;
+
+}
+
+th {
+background-color: #f2f2f2;
+}
